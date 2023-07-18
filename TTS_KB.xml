@@ -17,12 +17,6 @@ https://www.includehelp.com/tools/xml-sitemap-generator.aspx
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106385&SIDs=7126</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
 	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=124699</loc>
 	<lastmod>2023-07-18</lastmod>
 	<changefreq>monthly</changefreq>
@@ -263,12 +257,6 @@ https://www.includehelp.com/tools/xml-sitemap-generator.aspx
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97368&SIDs=7122</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
 	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=127007</loc>
 	<lastmod>2023-07-18</lastmod>
 	<changefreq>monthly</changefreq>
@@ -300,12 +288,6 @@ https://www.includehelp.com/tools/xml-sitemap-generator.aspx
 </url>
 <url>
 	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=127157</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97474&SIDs=7127</loc>
 	<lastmod>2023-07-18</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>1.0</priority>
@@ -486,12 +468,6 @@ https://www.includehelp.com/tools/xml-sitemap-generator.aspx
 </url>
 <url>
 	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=111088</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106425&SIDs=7123</loc>
 	<lastmod>2023-07-18</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>1.0</priority>
