@@ -1,1483 +1,1245 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!--
-Created with IncludeHelp XML Sitemap Generator
-https://www.includehelp.com/tools/xml-sitemap-generator.aspx
- -->
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106403</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=125163</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=124699</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=126772</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113013</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=126856</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106283</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=100116</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99012</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99106</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97726</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96954</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96762</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=87643</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=126555</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=114370</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115859</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=100534</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97474</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=136547</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=129977</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108271</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115745</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97020</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=131341</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=124442</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=124812</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=123520</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=95719</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137924</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108518</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=109382</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=100158</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106852</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=111901</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=119042</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99041</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108129</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=109372</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97801</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96966</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=127007</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108189</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=112464</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97109</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=111593</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=127157</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=112316</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106425</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97001</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=114796</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108227</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=123812</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=141134</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=127683</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=100998</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106388</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115744</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122217</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106438</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96886</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99498</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113121</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113800</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97722</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113778</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=131036</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97640</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=109491</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97491</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137510</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99650</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99439</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97368</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=124225</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99729</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=111088</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96868</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=98985</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=110244</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113018</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=120380</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122955</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137550</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108000</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108656</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108272</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/?CategoryID=16871</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97433</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97489</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106592</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106285</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137458</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115746</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97513</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96841</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=134113</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=125068</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=104516</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=109375</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=102029</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=120741</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108281</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=119135</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=109384</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/PopularArticles</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=98773</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=111028</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97025</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97325</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106398</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=138057</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108663</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99443</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106385</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=112952</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=111542</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=132013</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122262</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=131701</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137315</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=127565</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96945</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/?CategoryID=18035</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106838</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=133113</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=133912</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97427</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=129960</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122958</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113561</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108651</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=130948</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=131365</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106097</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=114322</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=127685</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97372</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/RecentArticles</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=133674</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99435</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=117417</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=127881</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113367</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=100151</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=123524</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=114304</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=124205</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=139005</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96869</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=128492</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122589</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122702</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=144798</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108231</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99112</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=107752</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=117628</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=130668</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=107044</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108239</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108326</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137644</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115836</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97796</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/?CategoryID=18039</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=140492</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=112968</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113366</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=136599</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137494</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=116445</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108236</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108612</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137449</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=130187</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97006</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=136247</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=112966</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=124698</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96873</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=131997</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99732</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97481</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=112073</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97733</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99107</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=130883</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=109033</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=119046</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=107012</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115889</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106435</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=128828</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=138085</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=112751</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115747</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=140141</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=123694</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=144219</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122594</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106692</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115298</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=125054</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=132617</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=111806</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137772</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97494</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113608</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=125065</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99036</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=142847</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=133934</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=110660</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97008</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=119494</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=120181</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=133874</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97403</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106402</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108131</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=123697</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=139000</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99727</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=127715</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122264</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=138177</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=110159</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=136565</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108324</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=124811</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=129188</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113151</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122871</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=143176</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=144002</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=126554</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97406</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97004</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122950</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115822</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=120400</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=123198</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99773</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108292</loc>
-	<lastmod>2023-07-18</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd/sitemap.xsd">
+ <url>
+  <loc>https://services.stthomas.edu/</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/SBTDClient/1898/ClientPortal/KB/ArticleDet?ID=106674</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Home/</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/?CategoryID=16871</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/?CategoryID=18035</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/?CategoryID=18039</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=100116</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=100151</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=100158</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=100534</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=100998</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=102029</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=104516</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106097</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106283</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106285</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106385</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106385&SIDs=7126</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106388</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106398</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106402</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106403</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106425</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106425&SIDs=7123</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106435</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106438</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106592</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106692</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106852</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=107012</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=107044</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=107752</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108000</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108129</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108131</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108189</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108227</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108231</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108236</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108239</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108271</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108272</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108281</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108292</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108324</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108326</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108518</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108612</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108651</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108656</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=108663</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=109033</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=109372</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=109375</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=109382</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=109384</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=109491</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=110159</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=110244</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=110660</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=111028</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=111088</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=111542</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=111593</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=111806</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=111901</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=112073</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=112464</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=112751</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=112952</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=112966</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=112968</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113013</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113018</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113121</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113151</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113366</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113367</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113561</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113778</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=113800</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=114304</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=114322</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=114370</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=114796</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115298</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115744</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115745</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115746</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115747</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115822</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115836</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115859</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=115889</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=116445</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=117417</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=117628</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=119042</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=119046</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=119135</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=119494</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=120181</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=120380</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=120400</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=120741</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122217</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122262</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122264</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122555</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122589</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122594</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122702</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122871</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122950</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122955</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=122958</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=123157</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=123198</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=123520</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=123524</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=123694</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=123697</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=123812</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=124205</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=124225</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=124442</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=124698</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=124699</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=124812</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=125054</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=125065</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=125068</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=125163</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=126554</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=126555</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=126772</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=126856</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=127007</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=127157</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=127565</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=127683</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=127685</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=127715</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=127881</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=128492</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=128828</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=129188</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=129960</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=129977</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=130187</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=130668</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=130883</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=130948</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=131036</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=131341</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=131365</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=131701</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=131997</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=132013</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=132617</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=133113</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=133674</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=133874</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=133912</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=133934</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=134113</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=136247</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=136547</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=136565</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=136599</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137315</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137449</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137458</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137494</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137510</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137550</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137644</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137772</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=137924</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=138057</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=138085</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=138177</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=139000</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=139005</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=140141</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=140492</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=141134</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=142847</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=143176</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=144002</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=144219</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=144798</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=149283</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=151452</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=151655</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=153242</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=153695</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=153713</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=153943</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=154091</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=154477</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=154836</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=155061</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=155308</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=155402</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=155554</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=156937</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=87643</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=95719</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96762</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96841</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96868</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96869</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96873</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96886</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96945</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96954</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=96966</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97001</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97004</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97006</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97008</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97020</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97025</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97325</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97368</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97368&SIDs=7122</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97372</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97403</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97406</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97427</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97433</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97474</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97474&SIDs=7127</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97481</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97489</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97491</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97494</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97513</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97640</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97722</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97726</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97733</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97796</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97801</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=98773</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=98985</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99012</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99036</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99041</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99106</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99107</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99112</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99435</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99439</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99443</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99498</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99650</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99727</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99729</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99732</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=99773</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/PopularArticles</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/RecentArticles</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/PopularServices</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/RecentServices</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=14259</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=14328</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=14329</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=14332</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=14337</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=14338</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=14340</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=14341</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=14346</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=14359</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=14360</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=14372</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=14648</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=14978</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=15185</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=16847</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=16848</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=16849</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=16919</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=16921</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=16923</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=16924</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=17657</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=17689</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=19630</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceCatalog?CategoryID=19813</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=38972</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=38976</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=38981</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=38982</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=38988</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=39215</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=39217</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=39227</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=39925</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=40030</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=40246</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41090</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41111</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41111&SIDs=10098</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41124</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41125</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41128</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41129</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41527</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41603</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41619</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41620</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41625</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41626</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41627</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41628</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41631</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41633</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41650</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41726</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41739</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41740</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41741</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41743</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41746</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41751</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41770</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41772</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41773</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41774</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41775</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41775&SIDs=11180</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41777</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41780</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41780&SIDs=9042</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41781</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41785</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41810</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41892</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41894</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41905</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41922</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=42307</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=42359</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=42380</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=44252</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=44252&SIDs=11172</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=44258</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=44259</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=47118</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=47493</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=47494</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=47495</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=47496</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=47499</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=47500</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=47679</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=47683)</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=47741</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=47900</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=47907)</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=47933</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=48294</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=48295</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=49011</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=49539</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=50073</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=50077)</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=50080</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=50081</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=50083</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=50084</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=50085</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=50090</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=50092</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=50094</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=50095</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=50098</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=50103</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=51005</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=51012</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=51539)</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=51704</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=51720</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=52384</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=c9g9fkPx9gA_&RequestorType=Service</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=HGU8cPZ0bCA_&RequestorType=Service&ArticleId=124442</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=i7vqTam0cbM_&RequestorType=Service</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=LeDyz6BGV4M_&RequestorType=Service</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=LeDyz6BGV4M_&RequestorType=Service&ArticleId=97493</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=MDS4Dy3eOXs_&RequestorType=Service</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=ODdOU0JCjcI_&RequestorType=Service&ArticleId=111088</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=PZhRDT96FAo_</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=V%7E2x%7EWO6sW0_&RequestorType=Service&ArticleId=122955</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Services/ServicesAtoZ</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/BrowseTags?ItemID=0&ComponentID=26</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/BrowseTags?ItemID=0&ComponentID=47</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/FileOpen?AttachmentID=0bd6d68b-a35e-40a3-85b8-20e9e259056f&ItemID=97726&ItemComponent=26&IsInline=0</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/FileOpen?AttachmentID=1104bc5f-503e-4825-ac05-111e62a5dbff&ItemID=114370&ItemComponent=26&IsInline=-1</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/FileOpen?AttachmentID=244c7e8d-a001-4f09-9bdf-9f124e2fd7c3&ItemID=109382&ItemComponent=26&IsInline=0</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/FileOpen?AttachmentID=67d8cb4b-0fb0-442b-9e74-a4c2cd55ece5&ItemID=41633&ItemComponent=47&IsInline=0</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/KBCategoryLookup?AC=acb_ctl00_ctl00_cpContent_cpContent_taluCategory</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/3307/AskHR/Requests/RecentServices</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/3307/AskHR/Requests/ServiceCatalog</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/3307/AskHR/Requests/ServiceDet?ID=53096</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/3307/AskHR/Requests/ServiceDet?ID=53318</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/3386/SR/KB/ArticleDet?ID=155281</loc>
+ </url>
+ <url>
+  <loc>https://services.stthomas.edu/TDClient/3386/SR/Requests/ServiceCatalog</loc>
+ </url>
 </urlset>
