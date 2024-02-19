@@ -58,7 +58,7 @@
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106385</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106385&SIDs=7126</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106385amp;SIDs=7126</loc>
  </url>
  <url>
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106388</loc>
@@ -76,7 +76,7 @@
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106425</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106425&SIDs=7123</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106425amp;SIDs=7123</loc>
  </url>
  <url>
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=106435</loc>
@@ -685,7 +685,7 @@
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97368</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97368&SIDs=7122</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97368amp;SIDs=7122</loc>
  </url>
  <url>
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97372</loc>
@@ -706,7 +706,7 @@
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97474</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97474&SIDs=7127</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97474amp;SIDs=7127</loc>
  </url>
  <url>
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=97481</loc>
@@ -925,7 +925,7 @@
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41111</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41111&SIDs=10098</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41111amp;SIDs=10098</loc>
  </url>
  <url>
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41124</loc>
@@ -1009,7 +1009,7 @@
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41775</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41775&SIDs=11180</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41775amp;SIDs=11180</loc>
  </url>
  <url>
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41777</loc>
@@ -1018,7 +1018,7 @@
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41780</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41780&SIDs=9042</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41780amp;SIDs=9042</loc>
  </url>
  <url>
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=41781</loc>
@@ -1054,7 +1054,7 @@
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=44252</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=44252&SIDs=11172</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=44252amp;SIDs=11172</loc>
  </url>
  <url>
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/ServiceDet?ID=44258</loc>
@@ -1174,52 +1174,52 @@
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=c9g9fkPx9gA_&RequestorType=Service</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=c9g9fkPx9gA_amp;RequestorType=Service</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=HGU8cPZ0bCA_&RequestorType=Service&ArticleId=124442</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=HGU8cPZ0bCA_amp;RequestorType=Serviceamp;ArticleId=124442</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=i7vqTam0cbM_&RequestorType=Service</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=i7vqTam0cbM_amp;RequestorType=Service</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=LeDyz6BGV4M_&RequestorType=Service</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=LeDyz6BGV4M_amp;RequestorType=Service</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=LeDyz6BGV4M_&RequestorType=Service&ArticleId=97493</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=LeDyz6BGV4M_amp;RequestorType=Serviceamp;ArticleId=97493</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=MDS4Dy3eOXs_&RequestorType=Service</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=MDS4Dy3eOXs_amp;RequestorType=Service</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=ODdOU0JCjcI_&RequestorType=Service&ArticleId=111088</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=ODdOU0JCjcI_amp;RequestorType=Serviceamp;ArticleId=111088</loc>
  </url>
  <url>
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=PZhRDT96FAo_</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=V%7E2x%7EWO6sW0_&RequestorType=Service&ArticleId=122955</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Requests/TicketRequests/NewForm?ID=V%7E2x%7EWO6sW0_amp;RequestorType=Serviceamp;ArticleId=122955</loc>
  </url>
  <url>
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Services/ServicesAtoZ</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/BrowseTags?ItemID=0&ComponentID=26</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/BrowseTags?ItemID=0amp;ComponentID=26</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/BrowseTags?ItemID=0&ComponentID=47</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/BrowseTags?ItemID=0amp;ComponentID=47</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/FileOpen?AttachmentID=0bd6d68b-a35e-40a3-85b8-20e9e259056f&ItemID=97726&ItemComponent=26&IsInline=0</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/FileOpen?AttachmentID=0bd6d68b-a35e-40a3-85b8-20e9e259056famp;ItemID=97726amp;ItemComponent=26amp;IsInline=0</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/FileOpen?AttachmentID=1104bc5f-503e-4825-ac05-111e62a5dbff&ItemID=114370&ItemComponent=26&IsInline=-1</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/FileOpen?AttachmentID=1104bc5f-503e-4825-ac05-111e62a5dbffamp;ItemID=114370amp;ItemComponent=26amp;IsInline=-1</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/FileOpen?AttachmentID=244c7e8d-a001-4f09-9bdf-9f124e2fd7c3&ItemID=109382&ItemComponent=26&IsInline=0</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/FileOpen?AttachmentID=244c7e8d-a001-4f09-9bdf-9f124e2fd7c3amp;ItemID=109382amp;ItemComponent=26amp;IsInline=0</loc>
  </url>
  <url>
-  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/FileOpen?AttachmentID=67d8cb4b-0fb0-442b-9e74-a4c2cd55ece5&ItemID=41633&ItemComponent=47&IsInline=0</loc>
+  <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/FileOpen?AttachmentID=67d8cb4b-0fb0-442b-9e74-a4c2cd55ece5amp;ItemID=41633amp;ItemComponent=47amp;IsInline=0</loc>
  </url>
  <url>
   <loc>https://services.stthomas.edu/TDClient/1898/ClientPortal/Shared/KBCategoryLookup?AC=acb_ctl00_ctl00_cpContent_cpContent_taluCategory</loc>
