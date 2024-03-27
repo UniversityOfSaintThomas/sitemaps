@@ -8,4 +8,4 @@
 <!-- Element that opens the widget on click. It does not have to be an input 
 <input placeholder="Search here" id="searchWidgetTrigger" /> 
 -->
-<ul class="button-grid"><li class="button-grid__item"><a href="academics/index.html" class="block__button button_solid_pink" >Try AI chatbot</a></li></ul>
+<input type="button" value="Try AI chatbot" id="searchWidgetTrigger" />
