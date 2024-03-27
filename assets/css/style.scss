@@ -28,6 +28,43 @@ body {
   padding: 0;
 }
 
+.fancyButton {
+background-color: rgb(158, 40, 181);
+border-bottom-left-radius: 32px;
+border-bottom-right-radius: 32px;
+border-top-left-radius: 32px;
+border-top-right-radius: 32px;
+box-sizing: border-box;
+color: rgb(255, 255, 255);
+cursor: pointer;
+display: inline-block;
+font-family" "Lato Bold", sans-serif
+font-size" 14px;
+font-weight: 700;
+height: 45px;
+letter-spacing: 1.2px;
+line-height: 24.0001px;
+list-style-type: none;
+min-width: 220px;
+padding-bottom: 10.5px;
+padding-left: 32px;
+padding-right: 32px;
+padding-top: 10.5px;
+text-align: center;
+text-decoration-color: rgb(255, 255, 255);
+text-decoration-line: none;
+text-decoration-style: solid;
+text-decoration-thickness: auto;
+text-size-adjust: 100%;
+transition-behavior: normal, normal;
+transition-delay: 0s, 0s;
+transition-duration: 0.2s, 0.2s;
+transition-property: color, background-color;
+transition-timing-function: ease-in-out, ease-in-out;
+visibility: visible;
+width: 220px;
+-webkit-font-smoothing: antialiased;
+}
 .header.capricorn {
   display: block;
   height: 80px;
