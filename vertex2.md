@@ -1,14 +1,3 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Vertex test</title>
-    <meta name="description" content="Webpage for xxxx">
-    <style type="text/css">
-      .grecaptcha-badge { visibility: hidden; }
-      </style>    
-  </head>
-  <body> <!-- Widget JavaScript bundle -->
 <script src="https://cloud.google.com/ai/gen-app-builder/client?hl=en_US"></script>
 
 <!-- Search widget element is not visible by default -->
@@ -19,5 +8,4 @@
 
 <!-- Element that opens the widget on click. It does not have to be an input -->
 <input placeholder="Search here" id="searchWidgetTrigger" /> 
-  </body>
-</html>
+
