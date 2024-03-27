@@ -1,0 +1,6 @@
+#eventList p {
+    color: blue;
+}
+#eventList p.offCampus {
+    color: red;
+}
