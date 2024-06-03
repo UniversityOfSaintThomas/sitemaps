@@ -8,4 +8,7 @@
 <!-- Element that opens the widget on click. It does not have to be an input 
 <input placeholder="Search here" id="searchWidgetTrigger" /> 
 -->
+<style type="text/css">
+  .grecaptcha-badge { visibility: hidden; }
+</style>
 <input type="button" class="fancyButton" value="POC AI search" id="searchWidgetTrigger" />
